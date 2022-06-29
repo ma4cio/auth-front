@@ -14,7 +14,6 @@ import { AuthRoutingModule } from './core/components/auth/auth-routing.module';
   imports: [
     BrowserModule,
     AppRoutingModule
-   
   ],
   providers: [],
   bootstrap: [AppComponent]
